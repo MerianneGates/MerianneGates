@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm Merianne Gates! 👋
+💻Program Manager with Tech-Moms  
+👫I'm a super cool wife and mom of 3    
+📊Data Analyst
+
 
 <!--
 **MerianneGates/MerianneGates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
